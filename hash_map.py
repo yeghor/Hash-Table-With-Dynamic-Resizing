@@ -1,4 +1,3 @@
-import random
 class Node:
     def __init__(self, key, value):
         self.next = None
