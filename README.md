@@ -1,6 +1,6 @@
 Here is a README file in English for the `hash_map.py` file in your repository:
 
-```Python
+```Markdown
 # Hash Table With Dynamic Resizing
 
 This project implements a hash table with dynamic resizing in Python. The implementation allows efficient data management and optimized memory usage.
